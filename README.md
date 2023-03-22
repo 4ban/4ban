@@ -1,5 +1,4 @@
 ### Hi there, I'm Dima 👋
-- 🔭 I’m currently working on improving my React and JS skills
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=4ban&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
