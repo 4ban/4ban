@@ -1,9 +1,16 @@
 ### Hi there, I'm Dima 👋
 - 🔭 I’m currently working on improving my React and JS skills
 
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=4ban&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=4ban&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=4ban&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### Some stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4ban&show_icons=true&count_private=true&theme=dracula)
+[![](https://visitcount.itsvg.in/api?id=4ban&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=4ban&repo=4ban&show_owner=true) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ban&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=4ban&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
+
+
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dmitry-kryukov) 
