@@ -7,8 +7,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=4ban&icon=0&color=8)](https://visitcount.itsvg.in)
 
-## GitHub Trophies
-<!--![](https://github-profile-trophy.vercel.app/?username=4ban&theme=chalk&no-frame=true&no-bg=false&margin-w=4)-->
+<!--## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=4ban&theme=chalk&no-frame=true&no-bg=false&margin-w=4)-->
 
 
 ## Socials
