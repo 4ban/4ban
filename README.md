@@ -9,7 +9,3 @@
 
 <!--## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=4ban&theme=chalk&no-frame=true&no-bg=false&margin-w=4)-->
-
-
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dmitry-kryukov) 
